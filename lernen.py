@@ -52,7 +52,3 @@ print (len(x)) # 3shan a7sb fe km 7rf fe x
 print (x.index('ah')) # 3shan a3rf ah r8m km fe alklma 
 print (x.replace('e', 'a')) # lw 3awz a3'yer 7aga mkan 7aga 
 print (x.replace(x, 'Husam'))  # momkn a3'yer al variable klo 
-
-l7di 14 
-
-

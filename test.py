@@ -12,3 +12,15 @@ print('mein Vorname ist '+firstName.title()+lastName.title()+ ' und ich bin '+ag
 
 fullname = 'Husameldin osman Awad Elkarim osman'
 print (fullname.split())
+
+x = 'Husameldin' 
+y= 'Osman' 
+age = '31'
+
+print ('mein name ist' +x.title() +y.title()+ 'und ich bin' +age)
+
+print (len(x))
+print (x.index('Hu'))
+print (x.replace('H','h'))
+
+print (x[-1])
