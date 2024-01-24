@@ -52,3 +52,38 @@ print (len(x)) # 3shan a7sb fe km 7rf fe x
 print (x.index('ah')) # 3shan a3rf ah r8m km fe alklma 
 print (x.replace('e', 'a')) # lw 3awz a3'yer 7aga mkan 7aga 
 print (x.replace(x, 'Husam'))  # momkn a3'yer al variable klo 
+
+# l7di 14 
+
+Attendees = 'Husam Macha Robert Mariya Nouman Amir'
+print (Attendees.split())
+print(len(Attendees))
+print (Attendees.index('sam'))
+print(Attendees.replace('Ma','ma'))
+print ('Die liste von den Attendees ' +Attendees.upper()+ 'Der Attendee ' +x.upper()+' konnte aber nicht daran nicht teilnehmen')
+print(Attendees[4])
+
+#**************************************************test****************test 
+
+Attendees= ('Husam osman awad ')
+a = 'Amir'
+m= 'maria'
+r= 'robert'
+n= 'nouman'
+ma= 'macha'
+print (Attendees.split())
+print (len(Attendees))
+print (Attendees[-1])
+print ('alle '+Attendees.title()+' werden teilnehmen. Warscheinlich ' +a.upper()+ ' kommt nicht')
+print (m+ ' '+ a)
+print (Attendees.index('H'))
+
+
+
+
+
+
+
+
+
+
