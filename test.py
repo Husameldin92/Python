@@ -89,26 +89,72 @@ print (a +' is '+ str(23 )+ ' years. But ' + b + 'is ' + str(24) + ' years' )
 
 
 #******************************
-a = 'Hosman'
-b= 'Ahmad'
-c= 'Jomo'
-Attendees1= ('Amir robert khalifa carlos')
+#a = 'hosam'
+#Attendees1 = ('hosam osman awad Elkarim')
 
-print  (Attendees1.split())
-print (len(Attendees1))
-print (Attendees1[-1])
-print ('die gesamte Summe von Attendees sind ' + str(25)+ ' das kostet insgesamt ' + str(25.0 )+ \
-       ' Euro. ' + a.upper() + ' wird aber leider nicht teilnehmen' + b.title() + ' warscheinlich auch')
-print (type(Attendees))
+#print (Attendees1.split())
+#print (Attendees1.split())
+#print (len(Attendees1))
+#print (len(Attendees1))
+#print (Attendees1.replace('h','H'))
+#print (a.upper())
+#print (Attendees1.title()+ ' ' +Attendees.upper())
+#print (max (123, 213234))
+#print ( min (23,34))
+#print (a.index ('h'))
+#print (a[-1])
+#print (type('ich bin'))
+#print (type(24.3))
+#from math import * 
+#print (ceil(23.234))
+
+
+#print (str(23) + ' Years')
+
+#num1 = input ('enter the first nummber')
+#num2 = input ( ' enter the second nummber')
+#Result = (float(num1) + float( num2))
+#print (Result)
+#u= input ('what is you name')
+#print (' you won with us ' + u)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = 'hosam'
+b = 'osman'
+x= ('ali nadir mohamed')
+
+lista= [a, b , x ,[1,2,3,[4,5,77]]]
+print (len(a))
 print (a.index('o'))
-print (a[1])
-print (max ('12213', '213445'))
-print (str(23))
-print(float(34))
 
-print (type(23))
+print (max('23','123'))
+print (a.replace('h','H'))
+print (type(a))
+from math import * 
+print (ceil(12.33))
+print (floor(213.23))
+print (min('123', '213'))
+print (round (123.213))
+num1 = input('enter nummber 1')
+num2 = input ('enter nummber 2')
+result = (float (num1)+ float (num2))
+print (result)
+print ('du hast mit uns gewonnen')
 
-from math import *
-print (ceil (12.4) )
-print (floor (3223.435))
-print (round (34.32))
+
+print (5 + 5)
