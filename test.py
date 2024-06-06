@@ -156,5 +156,3 @@ result = (float (num1)+ float (num2))
 print (result)
 print ('du hast mit uns gewonnen')
 
-
-print (5 + 5)
